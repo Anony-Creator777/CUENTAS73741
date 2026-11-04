@@ -1,0 +1,6 @@
+{
+  "name": "GastosFlow",
+  "description": "Control de gastos personales con saldo total, carpetas independientes, teclado numérico y temas claro/oscuro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
